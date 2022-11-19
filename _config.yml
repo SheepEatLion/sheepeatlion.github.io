@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: 장준영
+description: 글쓰기를 좋아하는 백엔드 개발자
+url: https://sheepeatlion.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Junyeong Jang
+  url: https://github.com/SheepEatLion/
+  email: gowjr207@gmail.com
