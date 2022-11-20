@@ -3,6 +3,11 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+안녕하세요!
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+현재 스타트업에서 **백엔드 개발자**로 일하고 있는 2년차 개발자, 장준영입니다!
+
+**스프링부트와 자바 환경**을 주로 하고 있었으나,, 지금은 **MSA 위에서 코프링**을 활용하며 개발하고 있고, 스타트업인 만큼 **인프라/데브옵스** 작업도 일부 맡아서 하고 있습니다:)
+
+각종 커뮤니티, 사이드 프로젝트, 커피챗 모두 환영합니다!!! 
+화면 좌측의 **메일 버튼**을 클릭하여 언제든 편하게 연락주세요 😃😃😃
