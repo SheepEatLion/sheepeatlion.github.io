@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: 깃허브 블로그 테스트 게시글
+author: 장준영
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- 테스트
+- 개발
+date: 2022-11-20 16:39 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+> 테스트다ㅏㅏㅏㅏㅏㅏ
+**테스트**
+- 테스트
+``` 테스트 ```
